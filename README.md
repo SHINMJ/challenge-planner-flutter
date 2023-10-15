@@ -1,16 +1,11 @@
-# challenge_flutter
+# Challenge Planner API
 
-A new Flutter project.
+“Push Up 100개 30일 도전하기” 와 같은 나만의 챌린지를 관리하고 같이 할 사람과 공유할 수 있는 서비스.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+클린 아키텍처의 개념을 활용하여 아키텍처를 만들고(?) Flutter 를 활용하여 어플리케이션을 만든다.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## [Notion 참고](https://peppered-bottle-2c8.notion.site/Toy-Project-0e26a9798a3e4a849772a7d6bcd5d896?pvs=4)
